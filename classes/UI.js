@@ -12,3 +12,4 @@ class UI {
         this.city.innerHTML = data.name;
     }
 }
+

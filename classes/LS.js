@@ -15,3 +15,4 @@ class LS {
         localStorage.setItem('city', city)
     }
 }
+

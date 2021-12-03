@@ -12,3 +12,4 @@ class Weather{
         this.city = city
     }
 }
+
